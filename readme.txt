@@ -1,0 +1,1 @@
+Zadanie 1 teoretyczne - jest zaimplementowane, wszystkie przykłady robiłam na zmodyfikowanej liście 

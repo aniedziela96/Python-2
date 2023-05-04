@@ -1,0 +1,10 @@
+Zadanie 1.
+
+Optymistyczny czas działania: Czas stały - lista zaczyna się od nawiasu ')' i po jednej iteracji algorytm się kończy
+
+Pesymistyczny czas działania: Nawiasowanie jest poprawne, więc pętla wykona się n razy, aby sprawdzić wszystkie warunki
+
+Zadanie 5.
+
+Pętla zawsze wykonuje się cała więc, czas działania to zawcze będzie n gdzie n to długość ścieżki
+
